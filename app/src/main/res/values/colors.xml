@@ -2,4 +2,29 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Tła -->
+    <color name="background">#F7F6F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_soft">#F0EDF5</color>
+
+    <!-- Tekst -->
+    <color name="text_primary">#242235</color>
+    <color name="text_secondary">#777486</color>
+
+    <!-- Kolor akcentowy -->
+    <color name="accent">#7057A3</color>
+    <color name="accent_dark">#594184</color>
+    <color name="accent_light">#EAE3F5</color>
+
+    <!-- Statusy gwarancji -->
+    <color name="success">#32765B</color>
+    <color name="success_light">#E5F2EA</color>
+    <color name="warning">#A66A27</color>
+    <color name="warning_light">#FFF1DD</color>
+    <color name="danger">#B64F55</color>
+    <color name="danger_light">#FBEAEC</color>
+
+    <!-- Linie i obramowania -->
+    <color name="border">#E8E5ED</color>
 </resources>
